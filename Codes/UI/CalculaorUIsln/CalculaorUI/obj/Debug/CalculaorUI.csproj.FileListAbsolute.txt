@@ -1,0 +1,10 @@
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\CalculaorUIsln\CalculaorUI\bin\Debug\CalculaorUI.exe.config
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\CalculaorUIsln\CalculaorUI\bin\Debug\CalculaorUI.exe
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\CalculaorUIsln\CalculaorUI\bin\Debug\CalculaorUI.pdb
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\CalculaorUIsln\CalculaorUI\obj\Debug\CalculaorUI.csprojResolveAssemblyReference.cache
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\CalculaorUIsln\CalculaorUI\obj\Debug\CalculaorUI.Form1.resources
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\CalculaorUIsln\CalculaorUI\obj\Debug\CalculaorUI.Properties.Resources.resources
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\CalculaorUIsln\CalculaorUI\obj\Debug\CalculaorUI.csproj.GenerateResource.Cache
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\CalculaorUIsln\CalculaorUI\obj\Debug\CalculaorUI.exe
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\CalculaorUIsln\CalculaorUI\obj\Debug\CalculaorUI.pdb
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\CalculaorUIsln\CalculaorUI\bin\Debug\Bunifu_UI_v1.5.3.dll

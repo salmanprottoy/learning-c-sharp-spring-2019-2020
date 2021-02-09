@@ -1,0 +1,10 @@
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\practiceUIsln\practiceUI\bin\Debug\practiceUI.exe.config
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\practiceUIsln\practiceUI\bin\Debug\practiceUI.exe
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\practiceUIsln\practiceUI\bin\Debug\practiceUI.pdb
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\practiceUIsln\practiceUI\obj\Debug\practiceUI.csprojResolveAssemblyReference.cache
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\practiceUIsln\practiceUI\obj\Debug\practiceUI.Form1.resources
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\practiceUIsln\practiceUI\obj\Debug\practiceUI.Properties.Resources.resources
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\practiceUIsln\practiceUI\obj\Debug\practiceUI.csproj.GenerateResource.Cache
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\practiceUIsln\practiceUI\obj\Debug\practiceUI.exe
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\practiceUIsln\practiceUI\obj\Debug\practiceUI.pdb
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\practiceUIsln\practiceUI\obj\Debug\practiceUI.Registration.resources

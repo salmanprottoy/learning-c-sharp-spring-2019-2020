@@ -1,0 +1,12 @@
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\UI1sln\UI1\bin\Debug\UI1.exe.config
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\UI1sln\UI1\bin\Debug\UI1.exe
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\UI1sln\UI1\bin\Debug\UI1.pdb
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\UI1sln\UI1\obj\Debug\UI1.csprojResolveAssemblyReference.cache
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\UI1sln\UI1\obj\Debug\UI1.Portal.resources
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\UI1sln\UI1\obj\Debug\UI1.Properties.Resources.resources
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\UI1sln\UI1\obj\Debug\UI1.csproj.GenerateResource.Cache
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\UI1sln\UI1\obj\Debug\UI1.exe
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\UI1sln\UI1\obj\Debug\UI1.pdb
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\UI1sln\UI1\bin\Debug\MetroFramework.dll
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\UI1sln\UI1\bin\Debug\MetroFramework.Design.dll
+E:\AIUB\Course\Semester 7\OOP-2(C#)\Codes\Practice\UI\UI1sln\UI1\bin\Debug\MetroFramework.Fonts.dll
